@@ -266,15 +266,6 @@ The framework provides comprehensive monitoring:
 - Cross-validation and statistical analysis
 - Comparison with baseline methods
 
-## 🎯 Future Directions
-
-Based on the paper's conclusions, potential extensions include:
-
-1. **Quantum-Native Problems**: Extend to quantum phase recognition and error syndrome classification
-2. **Deeper Architectures**: Investigate recycling from multiple pooling layers
-3. **Hardware Implementation**: Deploy on actual NISQ devices
-4. **Scalability**: Test on larger datasets and more complex tasks
-5. **Theoretical Analysis**: Formal study of entanglement preservation in recycled qubits
 
 ## 📚 Citation
 
