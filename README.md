@@ -4,7 +4,6 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![PennyLane](https://img.shields.io/badge/PennyLane-0.35.1-green.svg)](https://pennylane.ai/)
 
-This repository contains the implementation of the hybrid quantum-classical architecture described in the paper ["Hybrid Quantum-Classical Learning for Multiclass Image Classification"](https://arxiv.org/abs/2508.18161) by Anwar et al. The work proposes a novel approach that leverages discarded qubit states from quantum pooling operations to improve classification performance.
 
 ## 🎯 Key Novelties
 
