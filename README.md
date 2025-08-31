@@ -267,21 +267,6 @@ The framework provides comprehensive monitoring:
 - Comparison with baseline methods
 
 
-## 📚 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{anwar2025hybridquantumclassicallearningmulticlass,
-  title={Hybrid Quantum-Classical Learning for Multiclass Image Classification},
-  author={Shuchismita Anwar and Sowmitra Das and Muhammad Iqbal Hossain and Jishnu Mahmud},
-  year={2025},
-  eprint={2508.18161},
-  archivePrefix={arXiv},
-  primaryClass={quant-ph},
-  url={https://arxiv.org/abs/2508.18161}
-}
-```
 
 **Preprint Paper**: [arXiv:2508.18161](https://arxiv.org/abs/2508.18161)
 
