@@ -1,6 +1,6 @@
 # Hybrid Quantum-Classical Learning for Multiclass Image Classification
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.18161-b31b1b.svg)](https://arxiv.org/abs/2508.18161)
+
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![PennyLane](https://img.shields.io/badge/PennyLane-0.35.1-green.svg)](https://pennylane.ai/)
 
@@ -268,6 +268,6 @@ The framework provides comprehensive monitoring:
 
 
 
-**Preprint Paper**: [arXiv:2508.18161](https://arxiv.org/abs/2508.18161)
+
 
 
